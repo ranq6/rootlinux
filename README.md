@@ -1,4 +1,5 @@
-工具源项目地址：https://github.com/RoadBicycle-C/RootHawk(致敬大佬，我只是搬运工)
+工具源项目地址：https://github.com/RoadBicycle-C/RootHawk
+（致敬大佬，我只是搬运工)
 
 使用方法：
 1、cd /tmp
