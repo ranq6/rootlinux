@@ -6,6 +6,8 @@
 
 2、出网主机使用命令：git clone  https://github.com/ranq6/rootlinux.git
 
+cd /rootlinux
+
 3、chmod +x RootHawk-amd64
 
 4、./RootHawk-amd64 -any
